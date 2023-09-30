@@ -1,0 +1,9 @@
+1/The Band 
+    */cách tạo mong thì phải tạo tổ hợp folder và file 
+        reset CSS: để tất cả những gì tồn tại về gốc 
+        reset HTML: lập các class id (id thì không đc trung nhau, nếu trung thì dùng class)
+2/HTML
+    */tạo id, class sao cho không trùng nhau và dễ quản lý
+3/CSS
+    */vị trí, kích thước, màu sắc, kiểu dáng (kiểu chữ, hình học,...)
+    */từ ngoài vào trong, từ trên xuống dưới, từ tổng quan đến chi tiết
